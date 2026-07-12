@@ -1,6 +1,6 @@
 # ✨ Hi, I'm Seljan Zeynalova<br><br>
 I'm a passionate **Full-Stack .NET Developer** who enjoys building modern, scalable, and user-focused web applications. I love transforming ideas into real products by combining clean backend architecture with intuitive frontend experiences.<br><br> 💫 About Me<br><br> 💻 Passionate about **C#, ASP.NET Core, Entity Framework Core, and SQL Server**<br> 🌐 Building **full-stack applications** with **ASP.NET Core Web API** and **React**<br> 🏗️ Interested in **Clean Architecture**, scalable system design, and best software engineering practices<br> 🤖 Exploring **Artificial Intelligence** and integrating AI into real-world web applications<br> 📚 Continuously learning new technologies and improving my problem-solving skills<br> 🚀 Working toward building my own **SaaS products** and launching a tech startup<br><br> 📫 Let's Connect<br><br>I'm always interested in collaborating on innovative projects, learning from experienced developers, and building software that solves real-world problems. 
-  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/seljannzynlva) 
