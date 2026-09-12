@@ -1,10 +1,63 @@
-# ✨ Hi, I'm Seljan Zeynalova<br><br>
-I'm a passionate **.NET Developer** who enjoys building modern, scalable, and user-focused web applications. I love transforming ideas into real products by combining clean backend architecture with intuitive frontend experiences.<br><br> 💫 About Me<br><br> 💻 Passionate about **C#, ASP.NET Core, Entity Framework Core, and SQL Server**<br> 🌐 Building **full-stack applications** with **ASP.NET Core Web API** and **React**<br> 🏗️ Interested in **Clean Architecture**, scalable system design, and best software engineering practices<br> 🤖 Exploring **Artificial Intelligence** and integrating AI into real-world web applications<br> 📚 Continuously learning new technologies and improving my problem-solving skills<br> 🚀 Working toward building my own **SaaS products** and launching a tech startup<br><br> 📫 Let's Connect<br><br>I'm always interested in collaborating on innovative projects, learning from experienced developers, and building software that solves real-world problems. 
+<h1 align="center">Seljan Zeynalova</h1>
+<h3 align="center">Junior Backend Developer</h3>
 
+<p align="center">
+  Building reliable, scalable backend systems with ASP.NET Core, Entity Framework Core, and clean architecture principles.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/seljannzynlva) 
+<p align="center">
+  <a href="https://linkedin.com/in/seljannzynlva">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:selcan.zeynalova.2022@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## About Me
+
+I'm a .NET backend developer focused on designing well-structured, maintainable APIs and services. My work centers on ASP.NET Core Web API, clean/onion architecture, and solving real backend problems — authentication, authorization, concurrency, background processing, and real-time communication — rather than surface-level CRUD.
+
+- Currently deepening my backend skills through active, hands-on study of **ASP.NET Core**, **Entity Framework Core**, and **SQL Server / Oracle**
+- Applying **Clean Architecture**, **Onion Architecture**, and **Repository / Unit of Work** patterns
+- Handling cross-cutting concerns: structured logging, background services, messaging, and transaction/concurrency management
+- Recently started exploring **Artificial Intelligence**, with a strong focus on continuous growth and learning
+- Comfortable across the stack when needed, with backend engineering as my primary focus
+
+---
+
+## Core Technical Skills
+
+### Backend & Architecture
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/MVC-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET%20Core%20Identity-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/AutoMapper-C71A36?style=flat-square"/> <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black"/> <img src="https://img.shields.io/badge/xUnit-512BD4?style=flat-square"/> <img src="https://img.shields.io/badge/Serilog-1e1e1e?style=flat-square"/>
+
+**Architecture & patterns:** Onion Architecture · Clean Architecture principles · Repository & Unit of Work · Background Services · Transaction management & concurrency/conflict handling
+
+### Databases
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+
+### Data Analysis / Python
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+
+### Frontend Technologies
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Fetch%20API-000000?style=flat-square"/>
+
+### Tools & DevOps
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+
+---
+
+## Let's Connect
+
+I'm open to backend-focused opportunities and collaborations on projects that involve solid API design, system architecture, and real engineering problems.
+
+<p align="left">
+  <a href="https://linkedin.com/in/seljannzynlva">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:selcan.zeynalova.2022@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
