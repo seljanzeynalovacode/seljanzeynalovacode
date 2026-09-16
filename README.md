@@ -1,6 +1,6 @@
 <h1 align="center">Seljan Zeynalova</h1>
 <h3 align="center">Junior Backend Developer</h3>
-
+ 
 <p align="center">
   Building reliable, scalable backend systems with ASP.NET Core, Entity Framework Core, and clean architecture principles.
 </p>
