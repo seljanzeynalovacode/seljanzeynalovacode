@@ -31,9 +31,22 @@ I'm a .NET backend developer focused on designing well-structured, maintainable 
 ## Core Technical Skills
 
 ### Backend & Architecture
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/MVC-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET%20Core%20Identity-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/AutoMapper-C71A36?style=flat-square"/> <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black"/> <img src="https://img.shields.io/badge/xUnit-512BD4?style=flat-square"/> <img src="https://img.shields.io/badge/Serilog-1e1e1e?style=flat-square"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/MVC-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET%20Core%20Identity-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/> ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/AutoMapper-C71A36?style=flat-square"/> <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black"/> <img src="https://img.shields.io/badge/Serilog-1e1e1e?style=flat-square"/> ![OOP](https://img.shields.io/badge/OOP-1C1C1C?style=for-the-badge)
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-1C1C1C?style=for-the-badge)
 
-**Architecture & patterns:** Onion Architecture · Clean Architecture principles · Repository & Unit of Work · Background Services · Transaction management & concurrency/conflict handling
+
+**Architecture & patterns:**
+![Onion Architecture](https://img.shields.io/badge/Onion_Architecture-512BD4?style=flat-square)
+![Clean Architecture Principles](https://img.shields.io/badge/Clean_Architecture-232F3E?style=flat-square)
+![Repository & Unit of Work](https://img.shields.io/badge/Repository_&_UoW-0089D6?style=flat-square)
+![Background Services](https://img.shields.io/badge/Background_Services-FF9900?style=flat-square)
+![Transaction Management & Concurrency](https://img.shields.io/badge/Transaction_Management-D22128?style=flat-square)
+
+### Testing
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Moq](https://img.shields.io/badge/Moq-4285F4?style=for-the-badge)
+![FluentAssertions](https://img.shields.io/badge/FluentAssertions-0088CC?style=for-the-badge)
 
 ### Databases
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
@@ -43,6 +56,7 @@ I'm a .NET backend developer focused on designing well-structured, maintainable 
 
 ### Frontend Technologies
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Fetch%20API-000000?style=flat-square"/>
+![i18n (Internationalization)](https://img.shields.io/badge/i18n_(Localization)-02569B?style=flat-square&logo=google-translate&logoColor=white)
 
 ### Tools & DevOps
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
