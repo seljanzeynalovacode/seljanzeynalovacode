@@ -36,7 +36,7 @@ I'm a .NET backend developer focused on designing well-structured, maintainable 
 ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-1C1C1C?style=for-the-badge)
 
 
-**Architecture & patterns:**
+### Architecture & patterns**
 ![Onion Architecture](https://img.shields.io/badge/Onion_Architecture-512BD4?style=flat-square)
 ![Clean Architecture Principles](https://img.shields.io/badge/Clean_Architecture-232F3E?style=flat-square)
 ![Repository & Unit of Work](https://img.shields.io/badge/Repository_&_UoW-0089D6?style=flat-square)
