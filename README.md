@@ -1,5 +1,5 @@
 <h1 align="center">Seljan Zeynalova</h1>
-<h3 align="center">Junior Backend Developer</h3>
+<h3 align="center">Junior Backend Developer - Applied AI (Computer Vision, NLP)</h3>
   
 <p align="center">
   Building reliable, scalable backend systems with ASP.NET Core, Entity Framework Core, and clean architecture principles.
@@ -60,6 +60,18 @@ I'm a .NET backend developer focused on designing well-structured, maintainable 
 
 ### Tools & DevOps
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+
+---
+
+## Experience
+
+### Artificial Intelligence Intern — CodeAlpha (Remote)
+
+*October 2026 – Present*
+
+- Built an **NLP-powered FAQ chatbot** using NLTK for text preprocessing and TF-IDF with cosine similarity for intent matching, deployed behind a Flask web interface.
+- Implemented a **real-time object detection and tracking system** with YOLOv8 and OpenCV, applying pre-trained deep learning models to detect and track objects across video frames with persistent IDs.
+- Developed a **language translation tool** with a JavaScript UI, integrating a translation API with multi-language support, copy functionality, and text-to-speech features.
 
 ---
 
