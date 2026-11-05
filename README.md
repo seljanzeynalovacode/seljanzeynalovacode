@@ -67,7 +67,7 @@ I'm a .NET backend developer focused on designing well-structured, maintainable 
 
 ### Artificial Intelligence Intern — CodeAlpha (Remote)
 
-*October 2026 – Present*
+*October 2026 – Nov 2026*
 
 - Built an **NLP-powered FAQ chatbot** using NLTK for text preprocessing and TF-IDF with cosine similarity for intent matching, deployed behind a Flask web interface.
 - Implemented a **real-time object detection and tracking system** with YOLOv8 and OpenCV, applying pre-trained deep learning models to detect and track objects across video frames with persistent IDs.
